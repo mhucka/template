@@ -4,13 +4,14 @@ title: Mike's Software Repository Template
 authors:
   - family-names: Hucka
     given-names: Michael
+    email: mhucka@caltech.edu
     orcid: https://orcid.org/0000-0001-9105-5960
-abstract: Template repository for software projects
-repository-code: "https://github.com/mhucka/template"
+abstract: My repository template for software projects on GitHub
 type: software
-version: 1.0.4
+repository-code: "https://github.com/mhucka/template"
 license-url: "https://github.com/mhucka/template/blob/main/LICENSE"
+version: 1.2.0
+date-released: 2024-01-01
 keywords:
   - template
   - software
-date-released: 2023-02-27
