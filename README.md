@@ -26,7 +26,7 @@ This is a template README file for my software repositories.  This first paragra
 
 ## Installation
 
-[... fill in ...] 
+[... fill in ...]
 
 
 ## Usage
