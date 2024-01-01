@@ -1,7 +1,7 @@
 # @file    .gitignore
 # @brief   Rules for files and subdirectories to be ignored by git
 # @license Please see the file named LICENSE in the project directory
-# @repo    https://github.com/caltechlibrary/template
+# @repo    https://github.com/mhucka/template
 #
 # ╭─────────────────────── Notice ── Notice ── Notice ────────────────────────╮
 # │ The recommended approach is to add ONLY project-specific rules to the     │
