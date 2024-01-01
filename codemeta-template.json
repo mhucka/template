@@ -1,12 +1,12 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "Mike's Software Repository Template",
-  "identifier": "template",
-  "description": "My repository template for software projects on GitHub",
-  "version": "1.2.0",
-  "datePublished": "2024-01-01",
-  "dateCreated": "2020-07-11",
+  "name": "FULL REPOSITORY NAME",
+  "identifier": "REPONAME",
+  "description": "DESCRIPTION",
+  "version": "0.0.0",
+  "datePublished": "2023-12-14",
+  "dateCreated": "2023-12-11",
   "author": [
     {
       "@type": "Person",
@@ -46,15 +46,15 @@
       "@id": "https://orcid.org/0000-0001-9105-5960"
     }
   ],
-  "copyrightYear": 2024,
-  "license": "https://github.com/mhucka/template/blob/master/LICENSE",
+  "copyrightYear": 2023,
+  "license": "https://github.com/mhucka/REPONAME/blob/master/LICENSE",
   "isAccessibleForFree": true,
   "url": "",
-  "codeRepository": "https://github.com/mhucka/template",
-  "readme": "https://github.com/mhucka/template/blob/main/README.md",
-  "releaseNotes": "https://github.com/mhucka/template/blob/main/CHANGES.md",
-  "issueTracker": "https://github.com/mhucka/template/issues",
-  "downloadUrl": "https://github.com/mhucka/template/archive/master.zip",
+  "codeRepository": "https://github.com/mhucka/REPONAME",
+  "readme": "https://github.com/mhucka/REPONAME/blob/main/README.md",
+  "releaseNotes": "https://github.com/mhucka/REPONAME/blob/main/CHANGES.md",
+  "issueTracker": "https://github.com/mhucka/REPONAME/issues",
+  "downloadUrl": "https://github.com/mhucka/REPONAME/archive/master.zip",
   "keywords": [
     "software"
   ],
