@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: REPO TITLE
+authors:
+  - family-names: Hucka
+    given-names: Michael
+    email: mhucka@caltech.edu
+    orcid: https://orcid.org/0000-0001-9105-5960
+abstract: DESCRIPTION
+type: software
+url: LANDING PAGE -- DELETE IF NONE
+repository-code: "https://github.com/mhucka/REPONAME"
+license-url: "https://github.com/mhucka/REPONAME/blob/main/LICENSE"
+version: VERSION
+date-released: DATE OF VERSION
+doi: RDM ARCHIVED COPY -- DELETE IF NONE
+keywords:
+  - software
