@@ -9,7 +9,7 @@ authors:
 abstract: My repository template for software projects on GitHub
 type: software
 repository-code: "https://github.com/mhucka/template"
-license-url: "https://github.com/mhucka/template/blob/main/LICENSE"
+license: MIT
 version: 1.2.0
 date-released: 2024-01-01
 keywords:

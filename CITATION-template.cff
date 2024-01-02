@@ -10,7 +10,7 @@ abstract: DESCRIPTION
 type: software
 url: LANDING PAGE -- DELETE IF NONE
 repository-code: "https://github.com/mhucka/REPONAME"
-license-url: "https://github.com/mhucka/REPONAME/blob/main/LICENSE"
+license: MIT
 version: VERSION
 date-released: DATE OF VERSION
 doi: RDM ARCHIVED COPY -- DELETE IF NONE
