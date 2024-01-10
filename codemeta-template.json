@@ -46,7 +46,7 @@
       "@id": "https://orcid.org/0000-0001-9105-5960"
     }
   ],
-  "copyrightYear": 2023,
+  "copyrightYear": 2024,
   "license": "https://github.com/mhucka/REPONAME/blob/master/LICENSE",
   "isAccessibleForFree": true,
   "url": "",
@@ -55,8 +55,17 @@
   "releaseNotes": "https://github.com/mhucka/REPONAME/blob/main/CHANGES.md",
   "issueTracker": "https://github.com/mhucka/REPONAME/issues",
   "downloadUrl": "https://github.com/mhucka/REPONAME/archive/master.zip",
+  "relatedLink": "",
   "keywords": [
     "software"
+  ],
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "Python",
+      "version": "3.9",
+      "url": "https://www.python.org/"
+    }
   ],
   "developmentStatus": "active"
 }
