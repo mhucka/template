@@ -50,7 +50,7 @@ Your help and participation in enhancing this software is welcome!  Please visit
 
 ## License
 
-This software is Copyright (C) 2024 by Michael Hucka.  This software is freely distributed under the terms of the MIT License.  Please see the [LICENSE](LICENSE) file for more information.
+This software is Copyright © 2024 by Michael Hucka.  This software is freely distributed under the terms of the MIT License.  Please see the [LICENSE](LICENSE) file for more information.
 
 
 ## Acknowledgments
