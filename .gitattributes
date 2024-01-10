@@ -35,11 +35,14 @@
 # RC files like .babelrc, .eslintrc, etc.
 *.*rc	text
 
+# This avoids compatibility issues between Windows and Mac.
+*.csv	text eol=crlf
+
 LICENSE		text
 Makefile	text
 
-*.gitattributes	text
 *.*ignore	text
+*.gitattributes	text
 .gitconfig	text
 
 # Interpretation of common binary files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,8 +67,3 @@ Makefile	text
 *.tiff	binary
 *.xls	binary
 *.zip	binary
-
-# Special case for CSV files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# This avoids compatibility issues between Windows and Mac.
-
-*.csv	text eol=crlf
