@@ -18,6 +18,9 @@ max_line_length = 90
 tab_width = 4
 trim_trailing_whitespace = true
 
+[*.cfg]
+indent_size = 2
+
 [*.json]
 indent_size = 2
 
@@ -27,3 +30,8 @@ indent_size = 2
 # Shell scripts on Windows.
 [*.{cmd, bat}]
 end_of_line = crlf
+
+[Makefile, makefile]
+indent_size = 4
+indent_style = tab
+tab_width = 8
