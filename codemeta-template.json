@@ -47,14 +47,14 @@
     }
   ],
   "copyrightYear": 2024,
-  "license": "https://github.com/mhucka/REPONAME/blob/master/LICENSE",
+  "license": "https://github.com/mhucka/REPONAME/blob/main/LICENSE",
   "isAccessibleForFree": true,
   "url": "",
   "codeRepository": "https://github.com/mhucka/REPONAME",
   "readme": "https://github.com/mhucka/REPONAME/blob/main/README.md",
   "releaseNotes": "https://github.com/mhucka/REPONAME/blob/main/CHANGES.md",
   "issueTracker": "https://github.com/mhucka/REPONAME/issues",
-  "downloadUrl": "https://github.com/mhucka/REPONAME/archive/master.zip",
+  "downloadUrl": "https://github.com/mhucka/REPONAME/archive/main.zip",
   "relatedLink": "",
   "keywords": [
     "software"

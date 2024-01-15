@@ -2,7 +2,7 @@
 
 This is a template README file for my software repositories.  This first paragraph of the README will summarize the software in a concise fashion, preferably using no more than one or two sentences.
 
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](https://github.com/mhucka/template/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](https://github.com/mhucka/template/blob/main/LICENSE)
 [![Latest release](https://img.shields.io/github/v/release/mhucka/template.svg?style=flat-square&color=b44e88&label=Latest%20release)](https://github.com/mhucka/template/releases)
 
 
