@@ -10,6 +10,7 @@ This is a template README file for my software repositories.  This first paragra
 
 * [Introduction](#introduction)
 * [Installation](#installation)
+* [Quick start](#quick-start)
 * [Usage](#usage)
 * [Known issues and limitations](#known-issues-and-limitations)
 * [Getting help](#getting-help)
@@ -24,6 +25,11 @@ This is a template README file for my software repositories.  This first paragra
 
 
 ## Installation
+
+[... fill in ...]
+
+
+## Quick start
 
 [... fill in ...]
 
