@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata from this file."
+message: If you use this software, please cite it as below.
 authors:
   - family-names: Hucka
     given-names: Michael
@@ -9,10 +9,10 @@ title: REPO TITLE
 abstract: DESCRIPTION
 version: VERSION
 date-released: DATE OF VERSION
-url: "https://mhucka.github.io/REPONAME"
-repository-code: "https://github.com/mhucka/REPONAME"
+url: https://mhucka.github.io/REPONAME
+repository-code: https://github.com/mhucka/REPONAME
 license: MIT
-doi: RDM ARCHIVED COPY -- DELETE IF NONE
+doi: ZENODO ARCHIVED COPY -- DELETE IF NONE
 type: software
 keywords:
   - software

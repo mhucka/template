@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata from this file."
+message: If you use this software, please cite it as below.
 authors:
   - family-names: Hucka
     given-names: Michael
@@ -9,7 +9,8 @@ title: Mike's Software Repository Template
 abstract: My repository template for software projects on GitHub
 version: 1.9.0
 date-released: 2024-01-20
-repository-code: "https://github.com/mhucka/template"
+url: https://github.com/mhucka/template
+repository-code: https://github.com/mhucka/template
 license: MIT
 type: software
 keywords:
