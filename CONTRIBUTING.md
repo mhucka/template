@@ -20,9 +20,10 @@ As of 2024, I try to prefix commit messages using a subset of [Conventional Comm
 
 - `fix`: a commit of the type fix patches a bug in your codebase (this correlates with PATCH in Semantic Versioning).
 - `feat`: a commit of the type feat introduces a new feature to the codebase (this correlates with MINOR in Semantic Versioning).
-- `refactor`: A code change that neither fixes a bug nor adds a feature. For my uses, this subsumes the `style` prefix from Angular & Conventional Commits, which I don't use. If it's only for comment changes, use `docs` instead. If it involves the test suite, use `test` instead.
-- `docs`: Documentation work of any kind, including comments-only changes in code. Also includes refactoring docs. Also includes website work.
-- `build`: Work on the build system, continuous integration, etc. Includes ci work. refactoring build code.
+- `refactor`: A code change that neither fixes a bug nor adds a feature. If it's only for comment changes, use `docs` instead. If it involves the test suite, use `test` instead.
+- `style`: Changes that only affect stylistic choices.
+- `docs`: Documentation work of any kind, including comments-only changes in code (but not if the only purpose is to change something involving style – use `style` for those). Also includes refactoring docs. Also includes website work.
+- `build`: Work on the build system, continuous integration, etc. Includes Makefiles, scripts, refactoring build code.
 - `test`: Test case work of any kind. Includes refactoring test cases.
 - `revert`: Change that undoes a previous change.
 - `chore`: Anything that's not one of the above.
