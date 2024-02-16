@@ -13,3 +13,20 @@ A quick way to find out what is currently in the near-term plans for this projec
 ## Submitting contributions
 
 Please feel free to contact the primary author (Mike Hucka) directly, or even better, jump right in and use the standard GitHub approach of forking the repo and creating a pull request.  When committing code changes and submitting pull requests, please write a clear log message for your commits.
+
+### Git commit messages
+
+As of 2024, I try to prefix commit messages using a subset of [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), as follows:
+
+- `fix`: a commit of the type fix patches a bug in your codebase (this correlates with PATCH in Semantic Versioning).
+- `feat`: a commit of the type feat introduces a new feature to the codebase (this correlates with MINOR in Semantic Versioning).
+- `refactor`: A code change that neither fixes a bug nor adds a feature. For my uses, this subsumes the `style` prefix from Angular & Conventional Commits, which I don't use. If it's only for comment changes, use `docs` instead. If it involves the test suite, use `test` instead.
+- `docs`: Documentation work of any kind, including comments-only changes in code. Also includes refactoring docs. Also includes website work.
+- `build`: Work on the build system, continuous integration, etc. Includes ci work. refactoring build code.
+- `test`: Test case work of any kind. Includes refactoring test cases.
+- `revert`: Change that undoes a previous change.
+- `chore`: Anything that's not one of the above.
+
+Use an exclamation for breaking changes: `feat!: change handling of errors`.
+
+I don't use scoping modifiers (like putting module names in parentheses).
