@@ -29,6 +29,7 @@
 *.toml	text
 *.tex	text diff=tex
 *.txt	text
+*.xml	text diff=xml
 *.yaml	text merge=yaml
 *.yml	text merge=yaml
 
@@ -70,4 +71,5 @@ Makefile	text
 
 # Interpretation of Mac-specific files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+*.quartz	text diff=xml
 *.shortcut	binary
