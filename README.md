@@ -1,6 +1,6 @@
 # Template for my software READMEs
 
-This is a template README file for my software repositories.  This first paragraph of the README will summarize the software in a concise fashion, preferably using no more than one or two sentences.
+This is a template README file for my software repositories. This first paragraph of the README will summarize the software in a concise fashion, preferably using no more than one or two sentences.
 
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](https://github.com/mhucka/template/blob/main/LICENSE)
 [![Latest release](https://img.shields.io/github/v/release/mhucka/template.svg?style=flat-square&color=b44e88&label=Latest%20release)](https://github.com/mhucka/template/releases)
@@ -56,7 +56,7 @@ Your help and participation in enhancing this software is welcome!  Please visit
 
 ## License
 
-This software is Copyright © 2024 by Michael Hucka.  This software is freely distributed under the terms of the MIT License.  Please see the [LICENSE](LICENSE) file for more information.
+This software is Copyright © 2024 by Michael Hucka. This software is freely distributed under the terms of the MIT License. Please see the [LICENSE](LICENSE) file for more information.
 
 
 ## Acknowledgments
